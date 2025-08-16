@@ -8,3 +8,10 @@ Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y 
 ✅ Crear visualizaciones estratégicas para identificar patrones y tendencias. 
 ✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 
+Para ejecutar el archivo TelecomX_LATAM.ipynb.
+
+1. Se debe tener una cuenta de google.
+2. Descargar el archivo TelecomX_LATAM.ipynb
+3. Ingresar a Google Colab y subir un nuevo cuaderno.
+4. Conectarse al ambiente de Google Colab.
+5. Ejecutar todas las setencias.
